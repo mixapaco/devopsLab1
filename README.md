@@ -16,3 +16,11 @@ git log
 hash: 04ea56ac8adcdcf2bbb06e766eb44af37748e9e0
 
 ```
+---
+
+# 4
+```
+git branch dev
+git checkout dev
+
+```
