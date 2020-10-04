@@ -50,4 +50,4 @@ git pull origin main
 # 10
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Git  lab 1"
+[logo]: https://github.com/mixapaco/devopsLab1/blob/main/lab1/image_git.jpg "Git  lab 1"
