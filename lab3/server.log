@@ -1,0 +1,98 @@
+INFO 2021-01-03 12:49:24,289 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:48:23, next run: 2021-01-03 12:49:23)
+INFO 2021-01-03 12:49:26,320 root : Сервер доступний. Час на сервері: 2021-01-03T12:49:26.318
+INFO 2021-01-03 12:49:26,320 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:49:26,320 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:49:26,320 root : Ключ: date, Значення: 2021-01-03T12:49:26.318
+INFO 2021-01-03 12:49:26,320 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:49:26,320 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:49:26,320 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:51:26,176 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: [never], next run: 2021-01-03 12:51:25)
+INFO 2021-01-03 12:51:28,268 root : Сервер доступний. Час на сервері: 2021-01-03T12:51:28.265
+INFO 2021-01-03 12:51:28,269 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:51:28,269 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:51:28,269 root : Ключ: date, Значення: 2021-01-03T12:51:28.265
+INFO 2021-01-03 12:51:28,269 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:51:28,269 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:51:28,269 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:52:28,838 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:51:28, next run: 2021-01-03 12:52:28)
+INFO 2021-01-03 12:52:30,883 root : Сервер доступний. Час на сервері: 2021-01-03T12:52:30.881
+INFO 2021-01-03 12:52:30,883 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:52:30,883 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:52:30,883 root : Ключ: date, Значення: 2021-01-03T12:52:30.881
+INFO 2021-01-03 12:52:30,883 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:52:30,884 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:52:30,884 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:53:31,390 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:52:30, next run: 2021-01-03 12:53:30)
+INFO 2021-01-03 12:53:33,445 root : Сервер доступний. Час на сервері: 2021-01-03T12:53:33.443
+INFO 2021-01-03 12:53:33,445 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:53:33,445 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:53:33,445 root : Ключ: date, Значення: 2021-01-03T12:53:33.443
+INFO 2021-01-03 12:53:33,445 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:53:33,445 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:53:33,446 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:54:34,037 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:53:33, next run: 2021-01-03 12:54:33)
+INFO 2021-01-03 12:54:36,078 root : Сервер доступний. Час на сервері: 2021-01-03T12:54:36.076
+INFO 2021-01-03 12:54:36,078 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:54:36,078 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:54:36,078 root : Ключ: date, Значення: 2021-01-03T12:54:36.076
+INFO 2021-01-03 12:54:36,079 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:54:36,079 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:54:36,079 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:55:36,682 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:54:36, next run: 2021-01-03 12:55:36)
+INFO 2021-01-03 12:55:38,719 root : Сервер доступний. Час на сервері: 2021-01-03T12:55:38.718
+INFO 2021-01-03 12:55:38,720 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:55:38,720 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:55:38,720 root : Ключ: date, Значення: 2021-01-03T12:55:38.718
+INFO 2021-01-03 12:55:38,720 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:55:38,720 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:55:38,720 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:56:39,331 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:55:38, next run: 2021-01-03 12:56:38)
+INFO 2021-01-03 12:56:41,374 root : Сервер доступний. Час на сервері: 2021-01-03T12:56:41.372
+INFO 2021-01-03 12:56:41,374 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:56:41,374 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:56:41,374 root : Ключ: date, Значення: 2021-01-03T12:56:41.372
+INFO 2021-01-03 12:56:41,374 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:56:41,374 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:56:41,375 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:57:41,966 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:56:41, next run: 2021-01-03 12:57:41)
+INFO 2021-01-03 12:57:44,464 root : Сервер доступний. Час на сервері: 2021-01-03T12:57:44.462
+INFO 2021-01-03 12:57:44,464 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:57:44,464 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:57:44,465 root : Ключ: date, Значення: 2021-01-03T12:57:44.462
+INFO 2021-01-03 12:57:44,465 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:57:44,465 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:57:44,465 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:58:45,104 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:57:44, next run: 2021-01-03 12:58:44)
+INFO 2021-01-03 12:58:47,401 root : Сервер доступний. Час на сервері: 2021-01-03T12:58:47.398
+INFO 2021-01-03 12:58:47,401 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:58:47,401 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:58:47,401 root : Ключ: date, Значення: 2021-01-03T12:58:47.398
+INFO 2021-01-03 12:58:47,402 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:58:47,402 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:58:47,402 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 12:59:48,033 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:58:47, next run: 2021-01-03 12:59:47)
+INFO 2021-01-03 12:59:50,089 root : Сервер доступний. Час на сервері: 2021-01-03T12:59:50.087
+INFO 2021-01-03 12:59:50,089 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 12:59:50,090 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 12:59:50,090 root : Ключ: date, Значення: 2021-01-03T12:59:50.087
+INFO 2021-01-03 12:59:50,090 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 12:59:50,090 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 12:59:50,090 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 13:00:50,665 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:59:50, next run: 2021-01-03 13:00:50)
+INFO 2021-01-03 13:00:52,720 root : Сервер доступний. Час на сервері: 2021-01-03T13:00:52.717
+INFO 2021-01-03 13:00:52,720 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 13:00:52,720 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 13:00:52,720 root : Ключ: date, Значення: 2021-01-03T13:00:52.717
+INFO 2021-01-03 13:00:52,721 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 13:00:52,721 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 13:00:52,721 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 13:01:53,186 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 13:00:52, next run: 2021-01-03 13:01:52)
+INFO 2021-01-03 13:01:55,234 root : Сервер доступний. Час на сервері: 2021-01-03T13:01:55.229
+INFO 2021-01-03 13:01:55,234 root : Запитувана сторінка: : /health/
+INFO 2021-01-03 13:01:55,234 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-03 13:01:55,235 root : Ключ: date, Значення: 2021-01-03T13:01:55.229
+INFO 2021-01-03 13:01:55,235 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-03 13:01:55,235 root : Ключ: server_info, Значення: nt
+INFO 2021-01-03 13:01:55,235 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-03 13:02:55,742 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 13:01:55, next run: 2021-01-03 13:02:55)
+ERROR 2021-01-03 13:02:59,799 root : Сервер не доступний.
