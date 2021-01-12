@@ -1,0 +1,186 @@
+INFO 2021-01-03 12:49:24,289 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:48:23, next run: 2021-01-03 12:49:23)
+INFO 2021-01-03 12:49:26,320 root : ������ ���������. ��� �� �������: 2021-01-03T12:49:26.318
+INFO 2021-01-03 12:49:26,320 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:49:26,320 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:49:26,320 root : ����: date, ��������: 2021-01-03T12:49:26.318
+INFO 2021-01-03 12:49:26,320 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:49:26,320 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:49:26,320 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:51:26,176 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: [never], next run: 2021-01-03 12:51:25)
+INFO 2021-01-03 12:51:28,268 root : ������ ���������. ��� �� �������: 2021-01-03T12:51:28.265
+INFO 2021-01-03 12:51:28,269 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:51:28,269 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:51:28,269 root : ����: date, ��������: 2021-01-03T12:51:28.265
+INFO 2021-01-03 12:51:28,269 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:51:28,269 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:51:28,269 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:52:28,838 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:51:28, next run: 2021-01-03 12:52:28)
+INFO 2021-01-03 12:52:30,883 root : ������ ���������. ��� �� �������: 2021-01-03T12:52:30.881
+INFO 2021-01-03 12:52:30,883 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:52:30,883 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:52:30,883 root : ����: date, ��������: 2021-01-03T12:52:30.881
+INFO 2021-01-03 12:52:30,883 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:52:30,884 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:52:30,884 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:53:31,390 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:52:30, next run: 2021-01-03 12:53:30)
+INFO 2021-01-03 12:53:33,445 root : ������ ���������. ��� �� �������: 2021-01-03T12:53:33.443
+INFO 2021-01-03 12:53:33,445 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:53:33,445 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:53:33,445 root : ����: date, ��������: 2021-01-03T12:53:33.443
+INFO 2021-01-03 12:53:33,445 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:53:33,445 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:53:33,446 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:54:34,037 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:53:33, next run: 2021-01-03 12:54:33)
+INFO 2021-01-03 12:54:36,078 root : ������ ���������. ��� �� �������: 2021-01-03T12:54:36.076
+INFO 2021-01-03 12:54:36,078 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:54:36,078 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:54:36,078 root : ����: date, ��������: 2021-01-03T12:54:36.076
+INFO 2021-01-03 12:54:36,079 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:54:36,079 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:54:36,079 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:55:36,682 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:54:36, next run: 2021-01-03 12:55:36)
+INFO 2021-01-03 12:55:38,719 root : ������ ���������. ��� �� �������: 2021-01-03T12:55:38.718
+INFO 2021-01-03 12:55:38,720 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:55:38,720 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:55:38,720 root : ����: date, ��������: 2021-01-03T12:55:38.718
+INFO 2021-01-03 12:55:38,720 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:55:38,720 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:55:38,720 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:56:39,331 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:55:38, next run: 2021-01-03 12:56:38)
+INFO 2021-01-03 12:56:41,374 root : ������ ���������. ��� �� �������: 2021-01-03T12:56:41.372
+INFO 2021-01-03 12:56:41,374 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:56:41,374 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:56:41,374 root : ����: date, ��������: 2021-01-03T12:56:41.372
+INFO 2021-01-03 12:56:41,374 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:56:41,374 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:56:41,375 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:57:41,966 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:56:41, next run: 2021-01-03 12:57:41)
+INFO 2021-01-03 12:57:44,464 root : ������ ���������. ��� �� �������: 2021-01-03T12:57:44.462
+INFO 2021-01-03 12:57:44,464 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:57:44,464 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:57:44,465 root : ����: date, ��������: 2021-01-03T12:57:44.462
+INFO 2021-01-03 12:57:44,465 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:57:44,465 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:57:44,465 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:58:45,104 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:57:44, next run: 2021-01-03 12:58:44)
+INFO 2021-01-03 12:58:47,401 root : ������ ���������. ��� �� �������: 2021-01-03T12:58:47.398
+INFO 2021-01-03 12:58:47,401 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:58:47,401 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:58:47,401 root : ����: date, ��������: 2021-01-03T12:58:47.398
+INFO 2021-01-03 12:58:47,402 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:58:47,402 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:58:47,402 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 12:59:48,033 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:58:47, next run: 2021-01-03 12:59:47)
+INFO 2021-01-03 12:59:50,089 root : ������ ���������. ��� �� �������: 2021-01-03T12:59:50.087
+INFO 2021-01-03 12:59:50,089 root : ���������� ��������: : /health/
+INFO 2021-01-03 12:59:50,090 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 12:59:50,090 root : ����: date, ��������: 2021-01-03T12:59:50.087
+INFO 2021-01-03 12:59:50,090 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 12:59:50,090 root : ����: server_info, ��������: nt
+INFO 2021-01-03 12:59:50,090 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 13:00:50,665 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 12:59:50, next run: 2021-01-03 13:00:50)
+INFO 2021-01-03 13:00:52,720 root : ������ ���������. ��� �� �������: 2021-01-03T13:00:52.717
+INFO 2021-01-03 13:00:52,720 root : ���������� ��������: : /health/
+INFO 2021-01-03 13:00:52,720 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 13:00:52,720 root : ����: date, ��������: 2021-01-03T13:00:52.717
+INFO 2021-01-03 13:00:52,721 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 13:00:52,721 root : ����: server_info, ��������: nt
+INFO 2021-01-03 13:00:52,721 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 13:01:53,186 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 13:00:52, next run: 2021-01-03 13:01:52)
+INFO 2021-01-03 13:01:55,234 root : ������ ���������. ��� �� �������: 2021-01-03T13:01:55.229
+INFO 2021-01-03 13:01:55,234 root : ���������� ��������: : /health/
+INFO 2021-01-03 13:01:55,234 root : ³������� ������� ����� �������� ����:
+INFO 2021-01-03 13:01:55,235 root : ����: date, ��������: 2021-01-03T13:01:55.229
+INFO 2021-01-03 13:01:55,235 root : ����: current_page, ��������: /health/
+INFO 2021-01-03 13:01:55,235 root : ����: server_info, ��������: nt
+INFO 2021-01-03 13:01:55,235 root : ����: client_info, ��������: python-requests/2.25.1
+INFO 2021-01-03 13:02:55,742 schedule : Running job Every 1 minute do main('http://localhost:8000/health') (last run: 2021-01-03 13:01:55, next run: 2021-01-03 13:02:55)
+ERROR 2021-01-03 13:02:59,799 root : ������ �� ���������.
+INFO 2021-01-12 22:53:38,965 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: [never], next run: 2021-01-12 22:53:38)
+INFO 2021-01-12 22:53:39,086 root : Сервер доступний. Час на сервері: 2021-01-12T22:53:39.016
+INFO 2021-01-12 22:53:39,086 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:53:39,087 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:53:39,087 root : Ключ: date, Значення: 2021-01-12T22:53:39.016
+INFO 2021-01-12 22:53:39,087 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:53:39,087 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:53:39,087 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:54:39,161 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:53:39, next run: 2021-01-12 22:54:39)
+INFO 2021-01-12 22:54:39,468 root : Сервер доступний. Час на сервері: 2021-01-12T22:54:39.389
+INFO 2021-01-12 22:54:39,469 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:54:39,469 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:54:39,469 root : Ключ: date, Значення: 2021-01-12T22:54:39.389
+INFO 2021-01-12 22:54:39,469 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:54:39,469 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:54:39,469 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:55:39,547 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:54:39, next run: 2021-01-12 22:55:39)
+INFO 2021-01-12 22:55:39,629 root : Сервер доступний. Час на сервері: 2021-01-12T22:55:39.576
+INFO 2021-01-12 22:55:39,630 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:55:39,630 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:55:39,630 root : Ключ: date, Значення: 2021-01-12T22:55:39.576
+INFO 2021-01-12 22:55:39,630 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:55:39,630 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:55:39,630 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:56:39,709 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:55:39, next run: 2021-01-12 22:56:39)
+INFO 2021-01-12 22:56:39,804 root : Сервер доступний. Час на сервері: 2021-01-12T22:56:39.751
+INFO 2021-01-12 22:56:39,804 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:56:39,805 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:56:39,805 root : Ключ: date, Значення: 2021-01-12T22:56:39.751
+INFO 2021-01-12 22:56:39,805 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:56:39,805 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:56:39,805 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:57:39,878 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:56:39, next run: 2021-01-12 22:57:39)
+INFO 2021-01-12 22:57:39,990 root : Сервер доступний. Час на сервері: 2021-01-12T22:57:39.942
+INFO 2021-01-12 22:57:39,991 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:57:39,991 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:57:39,991 root : Ключ: date, Значення: 2021-01-12T22:57:39.942
+INFO 2021-01-12 22:57:39,991 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:57:39,991 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:57:39,992 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:58:40,066 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:57:39, next run: 2021-01-12 22:58:39)
+INFO 2021-01-12 22:58:40,180 root : Сервер доступний. Час на сервері: 2021-01-12T22:58:40.168
+INFO 2021-01-12 22:58:40,180 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:58:40,180 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:58:40,180 root : Ключ: date, Значення: 2021-01-12T22:58:40.168
+INFO 2021-01-12 22:58:40,180 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:58:40,180 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:58:40,181 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 22:59:40,255 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:58:40, next run: 2021-01-12 22:59:40)
+INFO 2021-01-12 22:59:40,463 root : Сервер доступний. Час на сервері: 2021-01-12T22:59:40.442
+INFO 2021-01-12 22:59:40,463 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 22:59:40,463 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 22:59:40,463 root : Ключ: date, Значення: 2021-01-12T22:59:40.442
+INFO 2021-01-12 22:59:40,463 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 22:59:40,463 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 22:59:40,464 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 23:00:40,539 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 22:59:40, next run: 2021-01-12 23:00:40)
+INFO 2021-01-12 23:00:40,653 root : Сервер доступний. Час на сервері: 2021-01-12T23:00:40.598
+INFO 2021-01-12 23:00:40,653 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 23:00:40,654 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 23:00:40,654 root : Ключ: date, Значення: 2021-01-12T23:00:40.598
+INFO 2021-01-12 23:00:40,654 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 23:00:40,654 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 23:00:40,654 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 23:01:40,730 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 23:00:40, next run: 2021-01-12 23:01:40)
+INFO 2021-01-12 23:01:40,843 root : Сервер доступний. Час на сервері: 2021-01-12T23:01:40.825
+INFO 2021-01-12 23:01:40,843 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 23:01:40,844 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 23:01:40,844 root : Ключ: date, Значення: 2021-01-12T23:01:40.825
+INFO 2021-01-12 23:01:40,844 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 23:01:40,844 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 23:01:40,844 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 23:02:40,926 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 23:01:40, next run: 2021-01-12 23:02:40)
+INFO 2021-01-12 23:02:41,044 root : Сервер доступний. Час на сервері: 2021-01-12T23:02:40.975
+INFO 2021-01-12 23:02:41,044 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 23:02:41,044 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 23:02:41,044 root : Ключ: date, Значення: 2021-01-12T23:02:40.975
+INFO 2021-01-12 23:02:41,045 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 23:02:41,045 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 23:02:41,045 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-12 23:03:41,120 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-12 23:02:41, next run: 2021-01-12 23:03:41)
+INFO 2021-01-12 23:03:41,223 root : Сервер доступний. Час на сервері: 2021-01-12T23:03:41.170
+INFO 2021-01-12 23:03:41,223 root : Запитувана сторінка: : /health/
+INFO 2021-01-12 23:03:41,224 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-12 23:03:41,224 root : Ключ: date, Значення: 2021-01-12T23:03:41.170
+INFO 2021-01-12 23:03:41,224 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-12 23:03:41,224 root : Ключ: server_info, Значення: posix
+INFO 2021-01-12 23:03:41,224 root : Ключ: client_info, Значення: python-requests/2.25.1
