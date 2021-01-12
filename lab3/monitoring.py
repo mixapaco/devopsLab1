@@ -32,7 +32,7 @@ def main(url):
 
 
 if __name__ == '__main__':
-	schedule.every(1).minutes.do(main,"http://localhost:8000/health")
+	schedule.every(1).minutes.do(main,"http://docker.for.win.localhost:8000/health")
 	while True:
 		schedule.run_pending()
 		time.sleep(1)
