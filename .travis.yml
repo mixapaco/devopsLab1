@@ -18,4 +18,4 @@ jobs:
       install:
         - cd ./lab3/
         - pipenv install
-      script: ./travis.sh
+      script: bash travis.sh
