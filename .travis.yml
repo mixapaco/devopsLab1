@@ -46,4 +46,4 @@ jobs:
         - make push
 branches:
   only:
-    - master
+    - main
