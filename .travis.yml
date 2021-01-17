@@ -19,3 +19,15 @@ jobs:
         - cd ./lab3/
         - pipenv install
       script: bash travis.sh
+    - stage: "Build Lab 4."
+      name: "Build Docker images & Home task"
+      services:
+        - docker
+      install:
+        - cd ./lab4/
+      script:
+        - docker build -t mixapaco/lab4:django-travis .
+        - docker build -t mixapaco/lab4:monitor-travis --file Dockerfile.site . 
+        - docker images
+        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push mixapaco/lab4:django-travis; else echo "PR skip deploy"; fi
+        - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push mixapaco/lab4:monitor-travis; else echo "PR skip deploy"; fi
