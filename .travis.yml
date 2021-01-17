@@ -12,3 +12,10 @@ jobs:
         - cd ./lab2/
         - make install
       script: make test-cli
+      - stage: "Build Lab 3."
+      name: "Run Djungo Server and test it."
+      python: 3.9
+      install:
+        - cd ./lab3/
+        - pipenv install
+      script: ./travis.sh
