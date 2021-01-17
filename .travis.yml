@@ -40,10 +40,10 @@ jobs:
         - make app
         - make tests
       script:
-          - make run
-          - make test-app
-          - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
-          - make push
+        - make run
+        - make test-app
+        - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+        - make push
 branches:
   only:
     - master
