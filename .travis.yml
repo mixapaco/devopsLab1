@@ -9,6 +9,6 @@ jobs:
       name: "Run tests for Lab 2"
       python: 3.9
       install:
-        - cd ./lab_2/
+        - cd ./lab2/
         - make install
       script: make test-cli
