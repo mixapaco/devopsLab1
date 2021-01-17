@@ -3,6 +3,7 @@ import json
 import logging
 import schedule
 import time
+import sys
 
 logging.basicConfig(
 	filename="server.log",
@@ -32,6 +33,10 @@ def main(url):
 
 
 if __name__ == '__main__':
+	if '--once' in sys.argv:
+		main("http://docker.for.win.localhost:8000/health")		
+		exit(0)	
+	
 	schedule.every(1).minutes.do(main,"http://docker.for.win.localhost:8000/health")
 	while True:
 		schedule.run_pending()
