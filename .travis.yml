@@ -31,3 +31,19 @@ jobs:
         - docker images
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push mixapaco/lab4:django-travis; else echo "PR skip deploy"; fi
         - if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin; docker push mixapaco/lab4:monitor-travis; else echo "PR skip deploy"; fi
+    - stage: "Build Lab 5."
+      name: "Build and run Docker images via make"
+      services:
+        - docker
+      install:
+        - cd ./lab5/
+        - make app
+        - make tests
+      script:
+          - make run
+          - make test-app
+          - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+          - make push
+branches:
+  only:
+    - master
