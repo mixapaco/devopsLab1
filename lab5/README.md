@@ -22,8 +22,11 @@
     7)docker-prune - видалення контейнерів, волюмів, мереж та імеджів.
 
 5. Запустив додаток та тест, тести пройшли успішно.
+
     ![main page](screenshots/Screenshot_1.png)
+
     ![hits](screenshots/Screenshot_2.png)
+
     ![logs](screenshots/Screenshot_3.png)
 
 6. Дві мережі: public - мережа з якої можуть підключатись користувачі та  
